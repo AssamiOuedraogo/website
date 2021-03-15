@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: http://ouedraogoassami1.netlify.app
 languageCode: en-us
-title: Forty
+title: CV
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -14,8 +14,8 @@ params:
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
+      - city: Koudougou
+        country: Burkina Faso
         street: Street
         title: Address
     buttonClear: Clear
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (+226) 54 25 95 28 / 63 11 43 95
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Sami Corporate
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -58,7 +58,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com
   image: ''
-  name: Your name
+  name: Ouedraogo Assami
   navigation:
     button1:
       - name: Get Started
@@ -108,11 +108,8 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Hello World i am Ouedraogo Assami.I am a software and web developer.
+    i studied computer science at Burkina Institute of technology.i a real pleasure for me 
+    to be part to the developer family in the world.So like debate,travel and read."
+    title: About me
     url: blogs
