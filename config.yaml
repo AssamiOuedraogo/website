@@ -8,15 +8,14 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+     this is the way for me to introduce my self by using a website
     title: Hi, my name is Assami Ouedraogo
   blog: {}
   contact:
     address:
       - city: Koudougou
         country: Burkina Faso
-        street: Street
+        street: 201
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -38,7 +37,7 @@ params:
     copyright: Sami Corporate
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
+      - alt: Assami Ouedraogo
         text: 'Design: '
         url: https://www.html5up.net
     social:
@@ -47,16 +46,16 @@ params:
         url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.Assami Ouedraogo.com
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://www.AssamiOuedraogo.com
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/assami-ouedraogo-486b27189
   image: ''
   name: Ouedraogo Assami
   navigation:
@@ -82,16 +81,16 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: I am passionate by coding  
+        title: Programmer
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: i am excited about how to design everything
+        title: Designer
+        url: i am excited about how to design everything
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
+        title: Web marketer
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
