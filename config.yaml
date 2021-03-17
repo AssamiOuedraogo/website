@@ -43,13 +43,13 @@ params:
     social:
       - icon: fa-twitter
         label: Twitter
-        url: https://www.twitter.com
+        url: https://twitter.com/Ouedrao13144028
       - icon: fa-facebook
         label: Facebook
-        url: https://www.Assami Ouedraogo.com
+        url: https://m.facebook.com/home.php?_rdr
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/assami232/
       - icon: fa-github
         label: GitHub
         url: https://www.AssamiOuedraogo.com
@@ -75,8 +75,8 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Assami Corporate
+    title: Profil
   tiles:
     enable: yes
     showcase:
