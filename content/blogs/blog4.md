@@ -10,6 +10,20 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
 draft: false
 image: pic07.jpg
 keywords: ""
-slug: aliquam
-title: Aliquam
+slug: beer
+title: Top 25 Beer consumption
 ---
+
+```{r beer_plot}
+# YOUR CODE GOES HERE
+drinks%>%
+arrange(desc(beer_servings))%>%
+head(25)%>% 
+ggplot(aes(y= reorder(country,beer_servings),
+                  x=beer_servings,
+                  fill=country))+
+  geom_col()+
+  theme(legend.position = "none")+
+  labs(title = "Top beer consumiing countries")
+
+```

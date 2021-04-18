@@ -1,6 +1,6 @@
 baseURL: https://ouedraogoassami1.netlify.app
 languageCode: en-us
-title: CV
+title: My professsional presentation
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-     this is the way for me to introduce my self by using a website
+     Hello dear all welcome to my portofolio website.
     title: Hi, my name is Assami Ouedraogo
   blog: {}
   contact:
@@ -60,7 +60,7 @@ params:
   name: Ouedraogo Assami
   navigation:
     button1:
-      - name: Get Started
+      - name: Learn more
         url: blogs
     button2:
       - name: Log In
@@ -81,34 +81,38 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: I am passionate by coding  
-        title: Programmer
-        url: blogs/aliquam
+        subtitle:  
+        title: Professsional experiences 
+        url: blogs/experiences
       - image: pic02.jpg
-        subtitle: i am excited about how to design everything
-        title: Designer
-        url: i am excited about how to design everything
+        subtitle:
+        title: Languages
+        url: blogs/languages
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Web marketer
-        url: blogs/magna
+        subtitle: 
+        title: Educations
+        url: blogs/educations
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle:
+        title: Skills
+        url: blogs/skills
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
-  two:
-    buttonText: Get Started
-    enable: yes
-    subtitle: "Hello World i am Ouedraogo Assami.I am a software and web developer.
-    i studied computer science at Burkina Institute of technology.i a real pleasure for me 
-    to be part to the developer family in the world.So like debate,travel and read."
-    title: About me
-    url: blogs
+        subtitle:
+        title: Loisirs
+        url: blogs/loisirs
+      - image: pic06.pg
+        subtitle: 
+        title: Motivation
+        url: blogs/motivation
+  #two:
+   # buttonText: Get Started
+    #enable: yes
+    #subtitle: "Hello World i am Ouedraogo Assami.I am a software and web developer.
+    #i studied computer science at Burkina Institute of technology.i a real pleasure for me 
+    #to be part to the developer family in the world.So like debate,travel and read."
+    #title: About me
+    #url: blogs
+
+
+    
+    
