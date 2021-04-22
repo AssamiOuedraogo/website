@@ -57,9 +57,22 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/assami-ouedraogo-486b27189
   image: ''
-  name: Ouedraogo Assami
-  subtitle:
-  title: Profil
+  name: Your name
+  navigation:
+    links:
+      - name: Home
+        url: '#'
+      - name: Loisirs
+        url: blogs/loisirs
+      - name: Languages
+        url: blogs/langages
+      - name: Educations
+        url: blogs/educations
+      - name: Professionals Experiences
+        url: blogs/experiences
+    menu: Menu
+    subtitle: By HTML5 Up
+    title: Profil
   tiles:
     enable: yes
     showcase:
