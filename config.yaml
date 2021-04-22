@@ -1,6 +1,6 @@
 baseURL: https://ouedraogoassami1.netlify.app
 languageCode: en-us
-title: My professsional presentation
+title: portofolio website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -9,7 +9,7 @@ params:
     buttonText: Get Started
     subtitle: |-
      Hello dear all welcome to my portofolio website.
-    title: Hi, my name is Assami Ouedraogo
+    title: Hi, Welcome
   blog: {}
   contact:
     address:
@@ -58,61 +58,32 @@ params:
         url: https://www.linkedin.com/in/assami-ouedraogo-486b27189
   image: ''
   name: Ouedraogo Assami
-  navigation:
-    button1:
-      - name: Learn more
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
-    links:
-      - name: Home
-        url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
-    menu: Menu
-    subtitle: Assami Corporate
-    title: Profil
+  subtitle:
+  title: Profil
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: experiences.jpg
         subtitle:  
         title: Professsional experiences 
         url: blogs/experiences
-      - image: pic02.jpg
+      - image: langages.jpg
         subtitle:
         title: Languages
         url: blogs/languages
-      - image: pic03.jpg
+      - image: educations.jpg
         subtitle: 
         title: Educations
         url: blogs/educations
-      - image: pic04.jpg
+      - image: skills.jpg
         subtitle:
         title: Skills
         url: blogs/skills
-      - image: pic05.jpg
+      - image: loisirs.jpg
         subtitle:
         title: Loisirs
         url: blogs/loisirs
-      - image: pic06.pg
+      - image: motivations.jpg
         subtitle: 
         title: Motivation
         url: blogs/motivation
-  #two:
-   # buttonText: Get Started
-    #enable: yes
-    #subtitle: "Hello World i am Ouedraogo Assami.I am a software and web developer.
-    #i studied computer science at Burkina Institute of technology.i a real pleasure for me 
-    #to be part to the developer family in the world.So like debate,travel and read."
-    #title: About me
-    #url: blogs
-
-
-    
-    
