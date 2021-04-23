@@ -19,7 +19,7 @@ params:
         title: Address
     buttonClear: Clear
     buttonSend: Send message
-    email:
+    email: 
       - email: ouedraogoassami03@gmail.com
         title: Email
     enable: yes

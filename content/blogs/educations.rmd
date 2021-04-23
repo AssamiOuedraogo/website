@@ -11,4 +11,5 @@ slug: educations
 title: Educations
 ---
 
-Educations experiences
+**Educations experiences**
+
